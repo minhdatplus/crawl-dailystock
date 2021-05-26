@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="781f80b7-2548-41ed-ad7e-af18fe260ea2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crawlprice/outgate/graph/GraphClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/crawlprice/outgate/graph/GraphClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crawlprice/outgate/gw/GwClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/crawlprice/outgate/gw/GwClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <workItem from="1620722721436" duration="428000" />
       <workItem from="1621528897270" duration="257000" />
       <workItem from="1621844635713" duration="336000" />
-      <workItem from="1622068143561" duration="257000" />
+      <workItem from="1622068143561" duration="552000" />
     </task>
     <servers />
   </component>
