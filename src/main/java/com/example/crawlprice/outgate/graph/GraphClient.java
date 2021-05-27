@@ -6,7 +6,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-@FeignClient(name = "clientGraph", url = "${url.host}")
+@FeignClient(name = "clientGraph", url = "${url.fundamental.host}")
 public interface GraphClient {
 
     @PostMapping("${url.endpoint.stockPrice}")
